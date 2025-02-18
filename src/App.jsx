@@ -7,6 +7,7 @@ import Footer from "./component/footer.jsx";
 
 
 const App = () => {
+  
   return (
     <div>
      <Navbar />
